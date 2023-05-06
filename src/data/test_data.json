@@ -1,0 +1,27 @@
+{
+  "attributes": {
+    "appName": "ABCDEFG",
+    "eventType": "ABCDEFGHIJ",
+    "subEventType": "ABCDEFGHIJKLMNOPQRSTU",
+    "sensitive": true
+  },
+  "message": {
+    "battle": {
+      "id": "ABCDEFGHIJKLMNOPQR",
+      "name": "ABCDEFGHIJKLMNOPQRSTUVWX",
+      "orientation": "ABCDEFGHIJKLMNO",
+      "settings": {
+        "minParticipants": 942,
+        "maxParticipants": 641,
+        "battleType": "ABCDEFGHIJKLMN",
+        "wagerType": "ABCDEFGHIJKLMNOPQRSTUVW",
+        "countdown": 69,
+        "duration": 200,
+        "archetype": {
+          "name": "ABCDEFGHIJKLMNOPQRS",
+          "iconId": "ABCDEFGHIJKLMNOPQRST"
+        }
+      }
+    }
+  }
+}
